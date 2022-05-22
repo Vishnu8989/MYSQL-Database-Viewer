@@ -61,7 +61,7 @@ def print_all(database=database,table=table):
         global tableData
         tableData = pd.DataFrame(data=res,columns=tableHeaders)
         # print(a)
-        tableData.to_csv('./records.csv',index=False)
+        # tableData.to_csv('./records.csv',index=False)                           // Uncomment this file to save database in csv
         return tableHeaders,tableData
     except mysql.connector.Error as err:
         print("Error : ",err)
