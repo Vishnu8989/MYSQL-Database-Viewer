@@ -53,7 +53,7 @@ python mysql_database_viewer.py
 
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
 
-Before Running the code for first time you need to change the folling lin eof code in mysql_database_viewer.py file:
+Before Running the code for first time you need to change the folling line of code in mysql_database_viewer.py file:
 
 ```
 database = "sakila"
