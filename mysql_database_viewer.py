@@ -4,7 +4,8 @@ import mysql.connector
 import pandas as pd
 
 
-
+tableHeaders = []
+tableData = []
 # Change the settings here foc connection
 database = "sakila"
 table = "sales_by_film_category"

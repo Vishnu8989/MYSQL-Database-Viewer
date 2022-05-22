@@ -75,6 +75,7 @@ You are good to go from here
 This was just a simple project to view the content of a MySQL-Database.
 But actual plan was to make a database management system which can be used to manage the database.
 Lets see if we can make it or not :).
+If You Get any error please run in vsCode.
 <br>
 
 <br>
