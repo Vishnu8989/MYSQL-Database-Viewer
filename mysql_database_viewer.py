@@ -1,11 +1,7 @@
 from tkinter import *
 from tkinter import ttk
-from PIL import ImageTk,Image
 import mysql.connector
-from numpy import pad
 import pandas as pd
-import names
-import random
 
 
 
