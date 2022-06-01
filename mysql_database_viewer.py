@@ -133,7 +133,6 @@ def widget():
     root = Tk()
     root.title("Data Base Viewer")
     root.geometry("700x100")
-    root.title("Widget Example")
     frame = ttk.Frame(root, padding="10 10 10 10")
     frame.grid(column=0, row=0, sticky=(N, W, E, S),padx=10,pady=10)
 
